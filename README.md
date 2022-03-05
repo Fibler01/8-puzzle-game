@@ -1,2 +1,2 @@
-# Jogo_dos_Oito
-Trabalho desenvolvido para disciplina de Inteligência Artificial, contendo alguns exemplos de buscas
+# 8-puzzle-game
+Work developed for the discipline of Artificial Intelligence, containing some examples of searches
